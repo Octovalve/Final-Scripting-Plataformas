@@ -1,0 +1,613 @@
+fileFormatVersion: 2
+guid: 314478d0b60f21e4ca0711402e25c4dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 794005853264362711
+    second: Angel_0
+  - first:
+      213: 1871501523871318218
+    second: Angel_1
+  - first:
+      213: -4580959361426953638
+    second: Angel_2
+  - first:
+      213: -3913153454950869793
+    second: Angel_3
+  - first:
+      213: 7943720349681500888
+    second: Angel_4
+  - first:
+      213: 4635326918131745028
+    second: Angel_5
+  - first:
+      213: 4898416009566856048
+    second: Angel_6
+  - first:
+      213: -7112508636378379784
+    second: Angel_0
+  - first:
+      213: 4304151088593469499
+    second: Angel_1
+  - first:
+      213: 3090688527609065560
+    second: Angel_2
+  - first:
+      213: -659799115630257432
+    second: Angel_3
+  - first:
+      213: -741445088704418577
+    second: Angel_4
+  - first:
+      213: 2359768071232097075
+    second: Angel_5
+  - first:
+      213: -3421651102051782055
+    second: Angel_7
+  - first:
+      213: -8019268715235222797
+    second: Angel_8
+  - first:
+      213: -8272808594338006200
+    second: Angel_9
+  - first:
+      213: 4348382926895267667
+    second: Angel_10
+  - first:
+      213: -8700125675418616527
+    second: Angel_11
+  - first:
+      213: 6976319355473065876
+    second: Angel_12
+  - first:
+      213: -141269031660893858
+    second: Angel_13
+  - first:
+      213: -6503916335082635216
+    second: Angel_14
+  - first:
+      213: -1063690426348043187
+    second: Angel_15
+  - first:
+      213: -8048802022617547726
+    second: Angel_16
+  - first:
+      213: 3916504399387997317
+    second: Angel_17
+  - first:
+      213: 6142957228826012350
+    second: Angel_18
+  - first:
+      213: 2673906644856289478
+    second: Angel_19
+  - first:
+      213: -5737105896459993097
+    second: Angel_20
+  - first:
+      213: -4988315438825999248
+    second: Angel_21
+  - first:
+      213: 7231646513741274786
+    second: Angel_22
+  - first:
+      213: -1071618335518243309
+    second: Angel_23
+  - first:
+      213: -8859998876086932399
+    second: Angel_24
+  - first:
+      213: 4189456696154610355
+    second: Angel_25
+  - first:
+      213: -812302541822714920
+    second: Angel_26
+  - first:
+      213: -4113748336326100279
+    second: Angel_27
+  - first:
+      213: 2846769163567258707
+    second: Angel_28
+  - first:
+      213: -5935617090142038241
+    second: Angel_29
+  - first:
+      213: 3499466842356449252
+    second: Angel_30
+  - first:
+      213: 4313386039445674700
+    second: Angel_31
+  - first:
+      213: -605600376526277533
+    second: Angel_32
+  - first:
+      213: -8822860215215688369
+    second: Angel_33
+  - first:
+      213: -7027596347116257610
+    second: Angel_34
+  - first:
+      213: 2780102129340875638
+    second: Angel_35
+  - first:
+      213: 4454895277740925209
+    second: Angel_36
+  - first:
+      213: 8459150931486249835
+    second: Angel_37
+  - first:
+      213: -123805554141880649
+    second: Angel_38
+  - first:
+      213: 4584233591863451807
+    second: Angel_39
+  - first:
+      213: -1005651501467730783
+    second: Angel_40
+  - first:
+      213: -9191599726623322002
+    second: Angel_41
+  - first:
+      213: -7570260943410403411
+    second: Angel_42
+  - first:
+      213: 156093906071136131
+    second: Angel_43
+  - first:
+      213: 7737598361241471088
+    second: Angel_44
+  - first:
+      213: 1939477168302420431
+    second: Angel_45
+  - first:
+      213: 8622722013777091881
+    second: Angel_46
+  - first:
+      213: 3730695887411888553
+    second: Angel_47
+  - first:
+      213: -8495816283241088050
+    second: Angel_48
+  - first:
+      213: -7763029756322572035
+    second: Angel_49
+  - first:
+      213: -955802693652899054
+    second: Angel_50
+  - first:
+      213: 857956317914665442
+    second: Angel_51
+  - first:
+      213: -6851938569732845590
+    second: Angel_52
+  - first:
+      213: 7351822660386992913
+    second: Angel_53
+  - first:
+      213: 2513407081180366738
+    second: Angel_54
+  - first:
+      213: -2087207888507160380
+    second: Angel_55
+  - first:
+      213: 4759432518632195196
+    second: Angel_56
+  - first:
+      213: -3913419032283954875
+    second: Angel_57
+  - first:
+      213: -8378167932341635767
+    second: Angel_58
+  - first:
+      213: 3879144823798787270
+    second: Angel_59
+  - first:
+      213: 2537648852240943263
+    second: Angel_60
+  - first:
+      213: 4396207206359732125
+    second: Angel_61
+  - first:
+      213: -2000687663044509144
+    second: Angel_62
+  - first:
+      213: -193042427855836761
+    second: Angel_63
+  - first:
+      213: -4230752515095646868
+    second: Angel_64
+  - first:
+      213: 664914154012081114
+    second: Angel_65
+  - first:
+      213: -6820617199532099144
+    second: Angel_66
+  - first:
+      213: 7407159317153533679
+    second: Angel_67
+  - first:
+      213: -1042031551154381529
+    second: Angel_68
+  - first:
+      213: 4508933595858053914
+    second: Angel_69
+  - first:
+      213: -8781474927203800026
+    second: Angel_70
+  - first:
+      213: -1136655702352865129
+    second: Angel_71
+  - first:
+      213: 414022570377610782
+    second: Angel_72
+  - first:
+      213: -3614910615037737899
+    second: Angel_73
+  - first:
+      213: -6473407627722579136
+    second: Angel_74
+  - first:
+      213: -9059461467575887206
+    second: Angel_75
+  - first:
+      213: -2335767822307350791
+    second: Angel_76
+  - first:
+      213: 2191289536500478144
+    second: Angel_77
+  - first:
+      213: -7534458384113503287
+    second: Angel_78
+  - first:
+      213: -795503494170487028
+    second: Angel_79
+  - first:
+      213: 3354849656845871202
+    second: Angel_80
+  - first:
+      213: 4263608734901345709
+    second: Angel_81
+  - first:
+      213: 1457717205049678058
+    second: Angel_82
+  - first:
+      213: 8588594825731659742
+    second: Angel_83
+  - first:
+      213: 7598358491501527591
+    second: Angel_84
+  - first:
+      213: -6538835400979595176
+    second: Angel_85
+  - first:
+      213: -2654662105245599169
+    second: Angel_86
+  - first:
+      213: 1786873513010311310
+    second: Angel_87
+  - first:
+      213: 4344246879257376385
+    second: Angel_88
+  - first:
+      213: 6318032222329630665
+    second: Angel_89
+  - first:
+      213: -5092819965494270472
+    second: Angel_90
+  - first:
+      213: 6600522402254551039
+    second: Angel_91
+  - first:
+      213: 1741534127205551945
+    second: Angel_92
+  - first:
+      213: 6503463294088530700
+    second: Angel_93
+  - first:
+      213: 490428229243120631
+    second: Angel_94
+  - first:
+      213: -2470547219347961446
+    second: Angel_95
+  - first:
+      213: -7926078052456858271
+    second: Angel_96
+  - first:
+      213: -280370688186330251
+    second: Angel_97
+  - first:
+      213: -2235925196216907793
+    second: Angel_98
+  - first:
+      213: -409610158180586485
+    second: Angel_99
+  - first:
+      213: 1637046643551932393
+    second: Angel_100
+  - first:
+      213: 3070358655289522200
+    second: Angel_101
+  - first:
+      213: 8659524628633338817
+    second: Angel_102
+  - first:
+      213: 2880258836184477574
+    second: Angel_103
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Angel_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9c4c2341b4b4d90800000000000000
+      internalID: -7112508636378379784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3089375c9a6bbb30800000000000000
+      internalID: 4304151088593469499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850738737d454ea20800000000000000
+      internalID: 3090688527609065560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_3
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eaddb9333ce7d6f0800000000000000
+      internalID: -659799115630257432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_4
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feca053ce9bd5b5f0800000000000000
+      internalID: -741445088704418577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_5
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b0916ee849fb020800000000000000
+      internalID: 2359768071232097075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073a154686baaf340800000000000000
+      internalID: 4898416009566856048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angel_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95231ec837ad380d0800000000000000
+      internalID: -3421651102051782055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

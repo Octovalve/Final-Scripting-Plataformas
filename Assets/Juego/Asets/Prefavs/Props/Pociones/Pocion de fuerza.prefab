@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2911289060861359467
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7978691658547301810}
+  - component: {fileID: 9197222868835487626}
+  - component: {fileID: 721351360}
+  - component: {fileID: 1331886409}
+  m_Layer: 0
+  m_Name: Pocion de fuerza
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7978691658547301810
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2911289060861359467}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -5.074626, y: -3.2025743, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &9197222868835487626
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2911289060861359467}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 6843061095023400535, guid: 7f3d610c332ccf3429837badcb0b989e,
+    type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.16, y: 0.16}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!68 &721351360
+EdgeCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2911289060861359467}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0.014}
+  m_EdgeRadius: 0
+  m_Points:
+  - {x: -0.03986931, y: 0.03982401}
+  - {x: -0.03987789, y: 0.009264946}
+  - {x: -0.030052662, y: 0.009782791}
+  - {x: -0.030458927, y: -0.009316444}
+  - {x: -0.039446354, y: -0.010106564}
+  - {x: -0.03975916, y: -0.01988411}
+  - {x: -0.049642086, y: -0.019541264}
+  - {x: -0.04983425, y: -0.04986143}
+  - {x: -0.040366173, y: -0.049319744}
+  - {x: -0.03980112, y: -0.05075741}
+  - {x: -0.030082226, y: -0.05021572}
+  - {x: -0.029771805, y: -0.050596237}
+  - {x: 0.030200958, y: -0.050309658}
+  - {x: 0.030020237, y: -0.05040598}
+  - {x: 0.040016174, y: -0.05031395}
+  - {x: 0.04051876, y: -0.050073624}
+  - {x: 0.050403118, y: -0.050089836}
+  - {x: 0.050416946, y: -0.020499706}
+  - {x: 0.04009056, y: -0.020576}
+  - {x: 0.039848804, y: -0.010530949}
+  - {x: 0.029882908, y: -0.01052618}
+  - {x: 0.030549526, y: 0.010234356}
+  - {x: 0.03991604, y: 0.010007381}
+  - {x: 0.039791107, y: 0.039959908}
+  - {x: -0.03992653, y: 0.04004574}
+--- !u!114 &1331886409
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2911289060861359467}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5172c65a861a819408e53f6d3e6975ac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  valor: 0.5
